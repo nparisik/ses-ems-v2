@@ -25,6 +25,7 @@ Upon selecting "Add New Employee", a form will be presented for new employee rec
 
 Upon selecting "UPDATE", employee records can be modified as needed
 ![image](https://user-images.githubusercontent.com/31113934/173105808-ccfc43ef-2f1a-49ad-aa0d-1d0097ea2bd5.png)
+Note: the employee records are uniquely identified by a randomly generated ID assigned by Spring Boot, as seen in URL
 
 
 Upon selecting "DELETE", user will be redirected to main EMS page 
